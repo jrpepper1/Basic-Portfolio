@@ -5,7 +5,6 @@ body {
     font-size: 18px;
     line-height: 150%;
     color: #333;
-    background-image: url(http://lorempixel.com/400/200/);
     background-color: #4aaaa5;
 }
 
@@ -57,46 +56,44 @@ nav {
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
+    background-color: #ffffff;
+    height: 500px;
+    border: 3px solid #949494;
 }
 
-) h1 {
+#AH {
+    text-align: left;
     padding: 20px 0;
-    margin: 0;
+    margin: 20px;
     margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 28px;
-    color: #777777;
+    color: #4aaaa5;
+    font-weight: bold;
+    border-bottom: 3px solid #949494;
+}
+
+img {
+    height: m300px;
+    width: 225px;
+    float: nleft;
+    margin-left: 20px;
+    maregin-right: n20px;
+}
+
+aside {
+    margin: 40px;
+}
+
+.pl {
+    margin-bottom: 20px;
+}
+
+footer {
+    color: #ffffff;
     text-align: center;
-}
-
-h2 {
-    font-size: 24px;
-}
-
-a {
-    color: #d21034;
-}
-
-.container {
-    width: 1024px;
-    margin: 0 auto;
-}
-
-#main-bio,
-#contact-info,
-#bio-image {
-    float: left;
-}
-
-#main-bio {
-    width: 70%;
-}
-
-#contact-info {
-    width: 30%;
-}
-
-#bio-image {
-    width: 200px;
-    height: 200px;
-    margin-right: 20px;
+    bordert-top: 8px solid #4aaaa5;
+    background-color: #666666;
+    height: 70px;
+    width: 100%;
 }
