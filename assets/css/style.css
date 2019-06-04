@@ -6,11 +6,34 @@ body {
     line-height: 150%;
     color: #333;
     background-image: url(http://lorempixel.com/400/200/);
-    background-color: #efeee7;
+    background-color: #4aaaa5;
+}
+
+.content {
+    min-height: calc(100vh - 70px)
 }
 
 header {
-    background: #333;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    padding: 50px;
+    background-color: #ffffff;
+    border-bottom: 3px solid #949494;
+}
+
+#name {
+    color: #ffffff;
+    background: #4aaaa5;
+    width: 240px;
+    padding: 36.5px;
+    margin-left: 390px;
+    margin-top: 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 27px;
+    position: absolute;
+    topo: 0;
+    left: 0;
 }
 
 h1 {
@@ -18,7 +41,7 @@ h1 {
     margin: 0;
     margin-bottom: 20px;
     font-size: 28px;
-    color: #eee;
+    color: #777777;
     text-align: center;
 }
 
