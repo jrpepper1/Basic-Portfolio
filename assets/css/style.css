@@ -5,7 +5,7 @@ body {
     font-size: 18px;
     line-height: 150%;
     color: #333;
-    background-color: #4aaaa5;
+    background-color: #ffffff;
 }
 
 .content {
@@ -68,31 +68,31 @@ nav {
     margin-bottom: 20px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 28px;
-    color: #4aaaa5;
+    color: #ffffff;
     font-weight: bold;
     border-bottom: 3px solid #949494;
 }
 
 img {
-    height: m300px;
+    height: 300px;
     width: 225px;
-    float: nleft;
-    margin-left: 20px;
-    maregin-right: n20px;
+    float: left;
+    margin-left: 29px;
+    margin-right: 57px;
 }
 
 aside {
     margin: 40px;
 }
 
-.pl {
-    margin-bottom: 20px;
+.p1 {
+    display: inline;
 }
 
 footer {
     color: #ffffff;
     text-align: center;
-    bordert-top: 8px solid #4aaaa5;
+    border-top: 8px solid #4aaaa5;
     background-color: #666666;
     height: 70px;
     width: 100%;
